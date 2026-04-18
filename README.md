@@ -125,8 +125,8 @@ This is part of a series of projects I am building to learn Python from scratch:
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
+**Abhishek Sali**
+- GitHub: [@hunting-code](https://github.com/hunting-code)
 - Learning Python — one project at a time 🐍
 
 ---
